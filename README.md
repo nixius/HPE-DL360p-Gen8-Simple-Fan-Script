@@ -1,14 +1,14 @@
 ## What does this do?
 
-This reads the sensor value on an HP ProLiant DL360pGen8 server, and set sthe fan speeds accordingly
+This reads the sensor value on an HP ProLiant DL360pGen8 server, and sets the fan speeds accordingly.
 
 ## Why?
 
-I run non HP drives, and they spin to 100% and don't ramp up/down with temperature
+I run non-HP hard drives, and they spin to 100% and don't ramp up/down with temperature.
 
 ## Who?
 
-This is for owners of very sepcific server, DL360pgen8. I run VMWare esxi, with a mix of windows and ubuntu VM's, with an environment that changes temp a lot. You will nee dto be comfortable with linux, but honestly you can probably fumble it through with ChatGPT/Claude Free.
+This is for owners of very sepcific server, DL360p Gen8. I run VMWare esxi, with a mix of windows and ubuntu VM's, with an environment that changes temp a lot. You will need to be comfortable with linux, but honestly you can probably fumble it through with ChatGPT/Claude Free.
 
 ## How?
 
